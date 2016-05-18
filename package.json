@@ -4,7 +4,7 @@
   "description": "React-Hello-World and webpack",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack -d -watch",
+    "dev": "webpack -d --watch",
     "build": "webpack -p"
   },
   "author": "Oriol Puig",
